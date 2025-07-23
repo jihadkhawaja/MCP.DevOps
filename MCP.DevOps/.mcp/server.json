@@ -1,0 +1,21 @@
+{
+  "$schema": "https://modelcontextprotocol.io/schemas/draft/2025-07-09/server.json",
+  "description": "A comprehensive Model Context Protocol (MCP) Server for automating DevOps operations and deploying applications to various cloud providers and servers",
+  "name": "io.github.jihadkhawaja/MCP.DevOps",
+  "packages": [
+    {
+      "registry_name": "nuget",
+      "name": "jihadkhawaja.MCP.DevOps",
+      "version": "0.1.1",
+      "package_arguments": [],
+      "environment_variables": []
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/jihadkhawaja/MCP.DevOps",
+    "source": "github"
+  },
+  "version_detail": {
+    "version": "0.1.1"
+  }
+}
