@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MCP.DevOps": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
